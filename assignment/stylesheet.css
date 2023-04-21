@@ -1,0 +1,22 @@
+header {
+    background-color: rgb(70, 70, 70);
+    color: rgb(210, 210, 210);
+    text-align: center;
+    
+}
+
+/* instructions say to look up CSS background-image, background-repeat, margin, and padding
+but does not say to use it. In class it has been advised to read the instructions
+closely, but I think the real intent here is to actually action these instructions and
+not just look them up */
+
+main {
+    background-color: lightgray;
+    padding 1em 1em 1em;
+}
+
+body {
+    /* background-image: url("record.png");
+    background-repeat: repeat-x; */
+    margin: 0px 0px 0px;
+}
