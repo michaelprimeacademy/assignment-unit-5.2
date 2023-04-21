@@ -8,7 +8,8 @@ header {
 /* instructions say to look up CSS background-image, background-repeat, margin, and padding
 but does not say to use it. In class it has been advised to read the instructions
 closely, but I think the real intent here is to actually action these instructions and
-not just look them up */
+not just look them up. With this item of clarity I used the background-image and repeat items 
+but commented them */
 
 main {
     background-color: lightgray;
@@ -17,6 +18,7 @@ main {
 
 body {
     /* background-image: url("record.png");
-    background-repeat: repeat-x; */
+    background-repeat: repeat-y; */
+
     margin: 0px 0px 0px;
 }
